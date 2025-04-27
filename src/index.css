@@ -1,0 +1,10 @@
+/* index.css (cleaner version) */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: 'Inter', sans-serif; /* or your custom font */
+  background: linear-gradient(135deg, #f8f9fa, #e0e0e0); /* Nice background */
+  box-sizing: border-box;
+}
